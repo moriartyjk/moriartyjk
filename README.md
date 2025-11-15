@@ -19,16 +19,16 @@ I'm a passionate developer with expertise in Flutter Frameworks, IT support, and
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moriartyjk&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
-- TBD
+- Full-stack Web Development (Udemy Certification Course)
 
 ## 💼 Projects
-- TBD
+- Time Track and Job Cost Management System
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
 ## 💡 Fun Fact
-When I'm not coding, you'll find me gaming or working on my car.
+When I'm not coding, you'll find me gaming, working on my car, or swing dancing.
 
 ---
 *Readme generated with ❤️ by Jennifer Moriarty*
